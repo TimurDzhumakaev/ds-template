@@ -1,0 +1,19 @@
+## Temporary files
+*.~*
+**/.ipynb_checkpoints/
+**/__pycache__/
+## IDE files
+**/.idea
+## Data files
+**/*.csv
+**/*.gz
+**/*.xls*
+**/*.log
+**/*.txt
+## Model files
+**/*.pkl
+**/*.pickle
+**/*.lgb*
+## Experiment zone
+**/_experiments/*
+!**/_experiments/.gitkeep
