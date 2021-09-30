@@ -10,6 +10,9 @@
 **/*.xls*
 **/*.log
 **/*.txt
+## Data folder
+**/_data/*
+!**/_data/.gitkeep
 ## Model files
 **/*.pkl
 **/*.pickle
