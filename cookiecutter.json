@@ -1,3 +1,5 @@
 {
-	"project_name": "ds-project"
+	"project_name": "ds-project",
+	"author_name": "Firstname Lastname",
+	"author_email": "firstname@lastname.xyz"
 }
