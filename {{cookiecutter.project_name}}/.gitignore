@@ -10,6 +10,7 @@
 **/*.xls*
 **/*.log
 **/*.txt
+!requirements.txt
 ## Data folder
 **/_data/*
 !**/_data/.gitkeep

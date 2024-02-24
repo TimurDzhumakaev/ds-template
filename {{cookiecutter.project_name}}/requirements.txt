@@ -1,0 +1,14 @@
+catboost==1.2.3
+cython==3.0.8
+hyperopt==0.2.7
+numpy==1.26.4
+pandas==2.2.0
+scikit-learn==1.4.0
+scipy==1.12.0
+shap==0.44.1
+matplotlib==3.8.3
+mlxtend==0.23.1
+openpyxl==3.0.10
+PyYAML==6.0.1
+jupyterlab==4.1.2
+
